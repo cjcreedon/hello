@@ -1,0 +1,9 @@
+R:\test1\hello\WebApp\WebApp\bin\WebApp.dll.config
+R:\test1\hello\WebApp\WebApp\bin\WebApp.dll
+R:\test1\hello\WebApp\WebApp\bin\WebApp.pdb
+R:\test1\hello\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\test1\hello\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\test1\hello\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+R:\test1\hello\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+R:\test1\hello\WebApp\WebApp\obj\Debug\WebApp.dll
+R:\test1\hello\WebApp\WebApp\obj\Debug\WebApp.pdb
